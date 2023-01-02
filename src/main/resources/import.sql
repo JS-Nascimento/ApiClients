@@ -1,0 +1,10 @@
+    INSERT INTO COSTUMER (name, cpf, income, birth_date, children) VALUES ('Jorge Nascimento', '123.456.789-00', 11880.05, '1979-09-18', 4);
+    INSERT INTO COSTUMER (name, cpf, income, birth_date, children) VALUES ('Sueli de Jesus do Nascimento', '987.654.321-00', 2550.05, '1948-11-02', 2);
+    INSERT INTO COSTUMER (name, cpf, income, birth_date, children) VALUES ('Jorge Ferreira', '239.676.697-68', 5465.89, '1950-03-10', 2);
+    INSERT INTO COSTUMER (name, cpf, income, birth_date, children) VALUES ('Danusa Mauricio', '123.444.777-09', 1202.36, '1985-09-29', 2);
+    INSERT INTO COSTUMER (name, cpf, income, birth_date, children) VALUES ('Maria Flor', '444.777.321-00', 0.00, '2017-02-07', 0);
+    INSERT INTO COSTUMER (name, cpf, income, birth_date, children) VALUES ('Luciana Rodrigues', '777.676.697-68', 8888.89, '1955-10-25', 3);
+    INSERT INTO COSTUMER (name, cpf, income, birth_date, children) VALUES ('Gelson Luiz', '309.000.111-11', 12888.00, '1952-06-13', 3);
+    INSERT INTO COSTUMER (name, cpf, income, birth_date, children) VALUES ('Fatima do Marlon', '333.444.777-09', 10202.36, '1950-09-29', 2);
+    INSERT INTO COSTUMER (name, cpf, income, birth_date, children) VALUES ('Marlon da Fatima', '422.755.321-00', 20000.00, '1948-02-07', 1);
+    INSERT INTO COSTUMER (name, cpf, income, birth_date, children) VALUES ('Priscilla Messias', '777.777.777-77', 880.89, '1978-10-22', 1);
